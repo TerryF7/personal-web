@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /images/
+Disallow: /js/
+Disallow: /css/
+Disallow: /lib/
+Disallow: /offline/
+Disallow: /404.html
+Disallow: /*.md$
+
+# Sitemap
+Sitemap: https://terryfeng.com/sitemap.xml
